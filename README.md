@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mounssif BOUHLAOUI</h1>
-<h3 align="center">A passionate developer from Morocco</h3>
+<h3 align="center">A passionate Node.Js developer from Morocco</h3>
 
 <p align="left"> <a href="https://twitter.com/nuux_tv" target="blank"><img src="https://img.shields.io/twitter/follow/nuux_tv?logo=twitter&style=for-the-badge" alt="nuux_tv" /></a> </p>
 
-- 🔭 I’m currently working on **Node.JS Projects**
+- 🔭 I’m currently working on **Node.JS Project, PLC Automation Projects**
 
-- 🌱 I’m currently learning **C, Python**
+- 🌱 I’m currently learning **C, Python, AWS, Docker**
 
 - 📫 How to reach me **cv.bouhlaoui@gmail.com**
 
