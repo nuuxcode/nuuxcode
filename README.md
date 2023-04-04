@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nuux_tv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nuux_tv" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mounssif-bouhlaoui-25934570x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mounssif-bouhlaoui-25934570x" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mounssif-bouhlaoui-25934570" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mounssif-bouhlaoui-25934570x" height="30" width="40" /></a>
 <a href="https://instagram.com/nuux_tv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nuux_tv" height="30" width="40" /></a>
 <a href="https://discord.com/users/1049193296838275123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nuuX-Mounssif#5987" height="30" width="40" /></a>
 </p>
