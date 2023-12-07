@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/nuux_tv" target="blank"><img src="https://img.shields.io/twitter/follow/nuux_tv?logo=twitter&style=for-the-badge" alt="nuux_tv" /></a> </p>
 
-- 🔭 I’m currently working on **Node.JS Project, PLC Automation Projects**
+- 🔭 I’m currently working on **Node.JS Project, Flask Project, PLC Automation Projects**
 
-- 🌱 I’m currently learning **C, Python, AWS, Docker**
+- 🌱 I’m currently learning **DevOps, AWS, Docker**
 
 - 📫 How to reach me **cv.bouhlaoui@gmail.com**
 
