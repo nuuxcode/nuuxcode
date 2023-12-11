@@ -5,6 +5,7 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=nuuxcode&label=Profile%20views&color=0e75b6&style=flat" alt="nuuxcode" />
 </p>
+
 - 🔭 I’m currently working on **Node.JS Project, Flask Project, PLC Automation Projects**
 
 - 🌱 I’m currently learning **DevOps, AWS, Docker**
