@@ -4,6 +4,7 @@
 <p align="left"> <a href="https://twitter.com/nuux_tv" target="blank"><img src="https://img.shields.io/twitter/follow/nuux_tv?logo=twitter&style=for-the-badge" alt="nuux_tv" /></a> </p>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=nuuxcode&label=Profile%20views&color=0e75b6&style=flat" alt="nuuxcode" />
+  <a href="https://committers.top/morocco_public#nuuxcode" target="blank"><img src="https://user-badge.committers.top/morocco_public/nuuxcode.svg" alt="nuuxcode" /></a>
 </p>
 
 - 🔭 I’m currently working on **Node.JS Project, Flask Project, PLC Automation Projects**
