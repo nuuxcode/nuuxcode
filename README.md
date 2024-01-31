@@ -24,6 +24,8 @@
 
 ## BikeHub Projects
 
+<p align="center">https://bikehub.me/</p>
+
 <a href="https://www.youtube.com/watch?v=TNgv1815Mpk" target="blank">
 <p align="center">Watch Video Website Demo</p>
 <p align="center">
