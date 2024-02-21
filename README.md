@@ -22,6 +22,20 @@
 </p>
 <p align="center"><img width="70%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nuuxcode&theme=algolia" alt="nuuxcode" /></p>
 
+## Tech Interview Community
+
+<p align="center">
+<img width="70%" src="https://github.com/nuuxcode/nuuxcode/assets/24565896/d45e456b-227f-4f52-8eb7-448891bf9430" alt="Tech Interview" />
+</p>
+
+<p align="center">Read more about Tech Interview PLD : <a href="https://www.linkedin.com/pulse/tech-interview-community-inspired-alx-mounssif-bouhlaoui-jdgge/" target="blank">Link</a></p>
+
+<p align="center">You can join next PLD through this form: <a href="https://forms.gle/7YbyabHY5vqGQt989" target="blank">Link</a></p>
+
+<p align="center">PLDs Recording Playlist: <a href="https://www.youtube.com/playlist?list=PLQ2qWwUzKtGQfSaloQIJZ9E-ZEuV57PUa" target="blank">Link</a></p>
+
+
+
 ## BikeHub Projects
 
 <p align="center">https://bikehub.me/</p>
