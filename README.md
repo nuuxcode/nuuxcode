@@ -7,7 +7,7 @@
   <a href="https://committers.top/morocco_public#nuuxcode" target="blank"><img src="https://user-badge.committers.top/morocco_public/nuuxcode.svg" alt="nuuxcode" /></a>
 </p>
 
-- 🔭 I’m currently working on **Node.JS Project, Flask Project, PLC Automation Projects**
+- 🔭 I’m currently working on **[VeniCodiVici](https://www.venicodivici.com/), Node.JS Project, Flask Project, PLC Automation Projects**
 
 - 🌱 I’m currently learning **DevOps, AWS, Docker**
 
