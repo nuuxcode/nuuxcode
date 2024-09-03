@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **[VeniCodiVici](https://www.venicodivici.com/), MERN Projects, Node.JS Project, Flask Project, PLC Automation Projects**
 
-- 🌱 I’m currently learning **DevOps, AWS, Docker**
+- 🌱 I’m currently learning **AI/WEB3/BLOCKCHAIN**
 
 - 📫 How to reach me **cv.bouhlaoui@gmail.com**
 
