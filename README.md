@@ -7,7 +7,7 @@
   <a href="https://committers.top/morocco_public#nuuxcode" target="blank"><img src="https://user-badge.committers.top/morocco_public/nuuxcode.svg" alt="nuuxcode" /></a>
 </p>
 
-- 🔭 I’m currently working on **[VeniCodiVici](https://www.venicodivici.com/), MERN Projects, Node.JS Project, Flask Project, PLC Automation Projects**
+- 🔭 I’m currently working on **[PrepForSuccess.AI](https://www.prepforsuccess.ai/), [VeniCodiVici](https://www.venicodivici.com/)**
 
 - 🌱 I’m currently learning **AI/WEB3/BLOCKCHAIN**
 
