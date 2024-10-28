@@ -25,7 +25,7 @@
 ## Prep For Success
 
 <p align="center"><a href="https://www.prepforsuccess.ai/" target="blank">
-<img width="70%" src="https://github.com/user-attachments/assets/cd2c417b-0511-4363-a6ed-4b6cbdf1598b" alt="Tech Interview" />
+<img width="70%" src="https://github.com/user-attachments/assets/ad05cf6e-f546-4c10-b939-0657c2927ca9" alt="Tech Interview" />
 </a></p>
 
 ## Tech Interview Community
